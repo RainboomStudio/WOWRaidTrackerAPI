@@ -1,4 +1,4 @@
-![Rainboom Studio UK](https://cdn.asthriona.com/Rainboom%20UK%20noBG.png)
+![Rainboom Studio UK](https://cdn.asthriona.com/Rainboom%20Studio.png)
 # World Of Warcraft Raid Tracker
 Here at Rainboom Studio, we love playing [World Of Warcraft](https://worldofwarcraft.com/en-gb/) !  
 But we need some tools to track what raid we played and when, so we made it.  
